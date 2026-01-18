@@ -1,0 +1,5 @@
+id,name,lat,lng,price_per_night,max_guests,rating,tags
+l1,"Hotel Indigo Traverse City",44.7606,-85.6164,220,2,4.6,"downtown walkable"
+l2,"Delamar Traverse City",44.7625,-85.6209,260,2,4.7,"lakeview upscale"
+l3,"Cherry Tree Inn & Suites",44.7943,-85.5687,150,4,4.5,"value family"
+l4,"The Baywatch Resort",44.7936,-85.5665,180,4,4.6,"beach relaxed"

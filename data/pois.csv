@@ -1,0 +1,11 @@
+id,name,category,lat,lng,price_level,rating,tags
+p1,"Chateau Grand Traverse",winery,44.9216,-85.5184,mid,4.5,"wine tasting scenic"
+p2,"Bowers Harbor Vineyards",winery,44.9307,-85.5089,mid,4.6,"wine casual"
+p3,"2 Lads Winery",winery,44.9408,-85.4869,high,4.7,"wine view modern"
+p4,"Right Brain Brewery",brewery,44.7623,-85.6200,low,4.6,"beer casual"
+p5,"Traverse City Whiskey Co.",distillery,44.7645,-85.6216,mid,4.5,"whiskey tour"
+p6,"The Cook's House",restaurant,44.7629,-85.6256,high,4.8,"fine-dining romantic"
+p7,"Trattoria Stella",restaurant,44.7641,-85.6269,mid,4.7,"italian cozy"
+p8,"Clinch Park Beach",sight,44.7607,-85.6169,low,4.7,"beach relax"
+p9,"Old Mission Peninsula Lighthouse",sight,45.0006,-85.5012,low,4.6,"view landmark"
+p10,"Boardman Lake Trail",sight,44.7424,-85.6182,low,4.6,"nature walk"
